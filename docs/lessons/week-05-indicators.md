@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 4 — Support, Resistance, Supply & Demand](./week-04-levels-supply-demand.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 6 — Pick ONE Setup: Opening Range Breakout](./week-06-orb-and-setups.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _This week you learn what EMA, VWAP, RSI and Volume actually measure, how each is built, and how to combine only these four into one clean chart — without drowning in indicator overload._
 
 ## Why This Week Matters

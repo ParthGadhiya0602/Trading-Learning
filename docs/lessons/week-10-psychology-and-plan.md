@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 9 — Intensive Paper Trading](./week-09-intensive-paper-trading.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 11 — Review & Refine](./week-11-review-and-refine.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 *Goal: understand why your own brain is the biggest edge-killer in intraday trading, and build a written plan that makes your decisions for you before the market can make them for you.*
 
 ## Why This Week Matters

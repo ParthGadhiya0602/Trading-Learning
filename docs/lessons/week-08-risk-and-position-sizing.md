@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 7 — Your First Paper Trades](./week-07-first-paper-trades.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 9 — Intensive Paper Trading](./week-09-intensive-paper-trading.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _This week you learn the one skill that keeps traders alive: deciding exactly how much you can lose — down to the rupee — before you ever think about how much you might win._
 
 ## Why This Week Matters

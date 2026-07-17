@@ -4,7 +4,7 @@ Full self-study lessons, one per week, matching [../roadmap.md](../roadmap.md). 
 
 **Start Monday with Week 1.** Do one week at a time - don't jump ahead.
 
-> ⚠️ Education only, not financial advice. Weeks 1–11 are paper trading. You only risk real money in Week 12, and only if the go-live checklist is fully ticked.
+> ⚠️ **Educational content only — not financial advice.** Nothing in these lessons is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
 
 ## Month 1 - Foundations & Reading Price
 

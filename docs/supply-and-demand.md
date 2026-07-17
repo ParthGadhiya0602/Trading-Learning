@@ -4,7 +4,9 @@ _How to find the exact price zones where intraday moves begin - and trade from t
 
 Support & resistance tells you _roughly_ where price reacted before. **Supply & demand** tells you _why_ it reacted and gives you a tighter, higher-probability zone to trade from. For NSE intraday (Nifty, Bank Nifty, and liquid stocks), this is one of the most practical edges a beginner can learn.
 
-> ⚠️ Education only, not financial advice. Zones improve _probability_, never certainty. Every trade still needs a stop-loss and correct position size.
+> ⚠️ **Educational content only — not financial advice.** Nothing here is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+>
+> Zones improve _probability_, never certainty. Every trade still needs a stop-loss and correct position size.
 
 ---
 

@@ -4,7 +4,9 @@ _How to actually use TradingView to find, plan, and manage intraday trades on th
 
 TradingView is where you'll spend most of your screen time: charting, marking zones, scanning for candidates, and paper trading. This guide walks the free tier first (enough to learn on) and notes where paid tiers help.
 
-> ⚠️ Education only. TradingView's paper trading is for practice; real orders route through your broker (Zerodha, etc.).
+> ⚠️ **Educational content only — not financial advice.** Nothing here is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+>
+> TradingView's paper trading is for practice; real orders route through your broker (Zerodha, etc.).
 
 ---
 

@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 6 — Pick ONE Setup: Opening Range Breakout](./week-06-orb-and-setups.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 8 — Risk & Position Sizing](./week-08-risk-and-position-sizing.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _Goal: run a complete, honest trade lifecycle — from watchlist to journal entry — on a demo platform, so the process becomes muscle memory before real money is ever at risk._
 
 ## Why This Week Matters

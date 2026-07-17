@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Roadmap Overview](../roadmap.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 2 — Candlestick Anatomy](./week-02-candlestick-anatomy.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 *Goal: understand the plumbing of the Indian stock market — who trades with whom, how a price is really made, and what happens to your order after you click "Buy" — before you ever place one.*
 
 ## Why This Week Matters

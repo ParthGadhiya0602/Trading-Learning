@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 5 — The Four Indicators You Need](./week-05-indicators.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 7 — Your First Paper Trades](./week-07-first-paper-trades.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _This week you stop collecting strategies and commit to mastering one mechanical setup — the Opening Range Breakout (ORB) — until it is boringly automatic._
 
 ## Why This Week Matters

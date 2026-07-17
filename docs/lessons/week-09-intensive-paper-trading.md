@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 8 — Risk & Position Sizing](./week-08-risk-and-position-sizing.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 10 — Psychology & Your Trading Plan](./week-10-psychology-and-plan.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 *Goal: Build a real sample of paper trades, add a disciplined second setup, and learn to judge your trading by expectancy and process rather than by any single win or loss.*
 
 ## Why This Week Matters

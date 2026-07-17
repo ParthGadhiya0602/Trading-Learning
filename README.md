@@ -2,7 +2,13 @@
 
 A personal, self-paced curriculum for learning to trade — starting with the **Indian stock market (NSE) and intraday trading**, with later stages planned for commodities, currencies, and global/foreign markets.
 
-> ⚠️ Everything in this repository is for **education only**, not financial advice. All prices and numbers in examples are hypothetical. Markets carry real risk of loss — never trade money you cannot afford to lose.
+## ⚠️ Disclaimer — Read Before Using This Repo
+
+- This entire repository exists **for learning purposes only**. Nothing here is, or should be taken as, financial advice.
+- Nothing in these lessons, examples, or diagrams is a **trade recommendation or suggestion**. No content should be interpreted as a signal to buy, sell, or hold any instrument.
+- **All prices, numbers, and trade examples are illustrative and hypothetical**, used purely to explain a concept. They do not reflect real market conditions and must never be acted on directly.
+- **Always consult a registered financial advisor** before making any trading or investment decision. Your circumstances, risk tolerance, and capital are your own responsibility to evaluate.
+- The author(s) and contributors of this repository **accept no responsibility or liability** for any loss, damage, or incorrect/invalid trades arising from the use of this material. Trade and invest entirely at your own risk.
 
 ## The staged plan
 

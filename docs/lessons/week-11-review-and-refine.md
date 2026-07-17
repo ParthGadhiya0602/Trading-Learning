@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 10 — Psychology & Your Trading Plan](./week-10-psychology-and-plan.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 12 — Go Live: Small & Real](./week-12-go-live.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _This week you stop hunting new setups and become a forensic auditor of your own trading, turning ten weeks of journal entries into a small, evidence-based edge and a process you can repeat under pressure._
 
 ## Why This Week Matters

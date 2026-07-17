@@ -2,7 +2,9 @@
 
 A repeatable daily workflow for your NSE intraday practice. Copy the **Daily Log** section into a new dated entry each trading day. Pairs with [roadmap.md](./roadmap.md) and its Non-Negotiable Risk Rules.
 
-> ⚠️ Weeks 1–11 = paper trading only. This routine is the same whether you're on paper or (from Week 12) small real capital - that's the point.
+> ⚠️ **Educational content only — not financial advice.** Nothing here is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+>
+> Weeks 1–11 = paper trading only. This routine is the same whether you're on paper or (from Week 12) small real capital - that's the point.
 
 ---
 

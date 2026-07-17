@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 2 — Candlestick Anatomy](./week-02-candlestick-anatomy.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 4 — Support, Resistance, Supply & Demand](./week-04-levels-supply-demand.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _Goal: learn the handful of candlestick patterns that actually carry information, understand the trapped-trader psychology behind each one, and internalise the rule that a pattern is only a signal at a level, with volume, and after confirmation._
 
 ## Why This Week Matters

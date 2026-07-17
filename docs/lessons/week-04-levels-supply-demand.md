@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 3 — Candlestick Patterns That Matter](./week-03-candlestick-patterns.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 5 — The Four Indicators You Need](./week-05-indicators.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 *Goal: learn to read the price map — the horizontal zones where intraday moves stall, reverse, and accelerate — and understand the order-flow mechanics that create them.*
 
 ## Why This Week Matters

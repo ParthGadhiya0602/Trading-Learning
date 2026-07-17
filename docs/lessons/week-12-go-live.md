@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 11 — Review & Refine](./week-11-review-and-refine.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Course Complete — Lessons Index](./README.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _This week you cross the line from paper to real money — using the smallest size possible — so that emotion, not method, is the only new variable, and you learn exactly how NSE costs eat into every trade._
 
 ## Why This Week Matters

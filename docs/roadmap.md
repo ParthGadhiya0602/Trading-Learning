@@ -11,7 +11,7 @@ You spend the first **11 weeks learning and paper-trading with zero money at ris
 | **Week 12**         | Small real capital                       |
 | **Real goal**       | A repeatable _process_ - not fast profit |
 
-> ⚠️ This is for education only, not financial advice. Intraday trading carries real risk of loss. The plan keeps you on simulated money for 11 weeks precisely because that is what protects beginners.
+> ⚠️ **Educational content only — not financial advice.** Nothing in this roadmap is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
 
 ---
 

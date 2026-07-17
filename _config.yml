@@ -1,0 +1,23 @@
+title: Trading Learning
+description: A self-paced curriculum for learning Indian intraday trading on the NSE.
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+
+relative_links:
+  enabled: true
+  collections: true
+
+readme_index:
+  with_frontmatter: true
+
+titles_from_headings:
+  enabled: true
+  strip_title: false
+  collections: true

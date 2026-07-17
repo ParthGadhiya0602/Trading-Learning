@@ -2,6 +2,8 @@
 
 > **◀ Previous:** [Week 1 — How the Market Actually Works](./week-01-market-basics.md) &nbsp;|&nbsp; **Course Home:** [Lessons Index](./README.md) &nbsp;|&nbsp; **Next ▶:** [Week 3 — Candlestick Patterns That Matter](./week-03-candlestick-patterns.md)
 
+> ⚠️ **Educational content only — not financial advice.** Nothing in this lesson is a trade recommendation or suggestion. All examples and numbers are illustrative and hypothetical. Always consult a registered financial advisor before trading or investing. Trade and invest at your own risk — no responsibility is accepted for any loss, damage, or incorrect/invalid trades.
+
 _Goal: learn to read a single candlestick fluently in real time — what each part means, why it forms the way it does, and why the 5-minute candle becomes your intraday home base._
 
 ## Why This Week Matters
