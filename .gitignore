@@ -1,0 +1,7 @@
+# Claude / claude-flow tooling
+.claude/
+CLAUDE.md
+.claude-flow/
+.swarm/
+.mcp.json
+ruvector.db
